@@ -1,16 +1,16 @@
 {
   "title": "Os Três Porquinhos",
-  "cover": "https://rodrigobambineti.github.io/teste_h3-data/stories/tres_porquinhos/images/cover.png",
+  "cover": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/tres_porquinhos/images/cover.png",
   "parts": [
     {
       "text": "Era uma vez, três porquinhos que viviam com sua mamãe...",
-      "image": "https://rodrigobambineti.github.io/teste_h3-data/stories/tres_porquinhos/images/page1.png",
-      "audio": "https://rodrigobambineti.github.io/teste_h3-data/stories/tres_porquinhos/audios/page1.mp3"
+      "image": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/tres_porquinhos/images/page1.png",
+      "audio": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/tres_porquinhos/audios/page1.mp3"
     },
     {
       "text": "O primeiro porquinho, Pipo, era alegre e preguiçoso...",
-      "image": "https://rodrigobambineti.github.io/teste_h3-data/stories/tres_porquinhos/images/page2.png",
-      "audio": "https://rodrigobambineti.github.io/teste_h3-data/stories/tres_porquinhos/audios/page2.mp3"
+      "image": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/tres_porquinhos/images/page2.png",
+      "audio": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/tres_porquinhos/audios/page2.mp3"
     }
   ]
 }
