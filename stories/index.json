@@ -1,7 +1,17 @@
 [
   {
-    "id": "tres_porquinhos",
+    "id": "001_tres_porquinhos",
     "title": "Os Três Porquinhos",
     "cover": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/tres_porquinhos/cover.png"
+  },
+  {
+    "id": "002_patinho_feio",
+    "title": "O Patinho Feio",
+    "cover": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/patinho_feio/cover.png"
+  },
+  {
+    "id": "003_macaco_velha",
+    "title": "O Patinho Feio",
+    "cover": "https://raw.githubusercontent.com/rodrigobambineti/historias_h3/main/stories/patinho_feio/cover.png"
   }
 ]
